@@ -23,6 +23,7 @@
 
 
 https://financetrain.com/best-python-librariespackages-finance-financial-data-scientists
+Keeps asking for ssh key password
 
 ### Extensions
 
