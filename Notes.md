@@ -73,6 +73,12 @@ On the other hand, there is Kelly's method proposed by John Kelly and Ed Thorpe 
 https://blog.quantinsti.com/portfolio-management-strategy-python/
 
 
+https://github.com/michaelchu/optopsy
+https://www.nsrplatform.com/app/#!/
+https://github.com/AsyncAlgoTrading/aat
+
+
 # Rules
 * We must define a maximum loss UPFRONT (before trade is placed)
 * We cannot be overweight any single sector (concentration and correlation bad)
+* Determine if options are too risky? (or have enough signal in data)
